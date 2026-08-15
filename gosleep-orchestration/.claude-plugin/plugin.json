@@ -1,0 +1,12 @@
+{
+  "name": "gosleep-orchestration",
+  "version": "0.1.0",
+  "description": "Orchestrating and steering a live gosleep fleet — delivery-agent orchestration, tmux pane discipline, remote-control from phone.",
+  "author": {
+    "name": "Roman L",
+    "email": "rommxx@gmail.com"
+  },
+  "homepage": "https://github.com/ainstance-labs/gosleep-plugins",
+  "repository": "https://github.com/ainstance-labs/gosleep-plugins",
+  "keywords": ["gosleep", "orchestration", "tmux", "remote-control", "delivery-agents"]
+}

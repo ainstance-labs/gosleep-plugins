@@ -1,0 +1,12 @@
+{
+  "name": "gosleep-delivery",
+  "version": "0.1.0",
+  "description": "Delivery conventions for the gosleep harness — Jira+GitHub epic/task workflow, PRD authoring, handoff protocol.",
+  "author": {
+    "name": "Roman L",
+    "email": "rommxx@gmail.com"
+  },
+  "homepage": "https://github.com/ainstance-labs/gosleep-plugins",
+  "repository": "https://github.com/ainstance-labs/gosleep-plugins",
+  "keywords": ["gosleep", "delivery", "jira", "handoff", "prd"]
+}

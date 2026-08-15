@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "gosleep-plugins",
+  "description": "Versioned Claude Code plugin marketplace for the owner's 12 skills — gosleep harness program.",
+  "owner": {
+    "name": "Roman L",
+    "email": "rommxx@gmail.com",
+    "url": "https://github.com/ainstance-labs"
+  },
+  "plugins": [
+    {
+      "name": "gosleep-delivery",
+      "source": "./gosleep-delivery",
+      "description": "Delivery conventions for the gosleep harness — Jira+GitHub epic/task workflow, PRD authoring, handoff protocol.",
+      "category": "workflow",
+      "tags": ["gosleep", "delivery", "jira", "prd", "handoff"]
+    },
+    {
+      "name": "gosleep-orchestration",
+      "source": "./gosleep-orchestration",
+      "description": "Orchestrating and steering a live gosleep fleet — delivery-agent orchestration, tmux pane discipline, remote-control from phone.",
+      "category": "orchestration",
+      "tags": ["gosleep", "orchestration", "tmux", "remote-control"]
+    },
+    {
+      "name": "gosleep-evals",
+      "source": "./gosleep-evals",
+      "description": "Evaluation, verification, reporting, and spend policy for gosleep — scenario runner, efficient evals, verifier-skeptic, HTML report creator, extra-usage session modifier.",
+      "category": "evals",
+      "tags": ["gosleep", "evals", "verifier", "report"]
+    }
+  ]
+}

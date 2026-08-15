@@ -1,0 +1,12 @@
+{
+  "name": "gosleep-evals",
+  "version": "0.1.0",
+  "description": "Evaluation, verification, reporting, and spend policy for gosleep — scenario runner, efficient evals, verifier-skeptic, HTML report creator, extra-usage session modifier.",
+  "author": {
+    "name": "Roman L",
+    "email": "rommxx@gmail.com"
+  },
+  "homepage": "https://github.com/ainstance-labs/gosleep-plugins",
+  "repository": "https://github.com/ainstance-labs/gosleep-plugins",
+  "keywords": ["gosleep", "evals", "verifier", "report", "scenario-runner"]
+}
